@@ -2,6 +2,7 @@
   "name": "solophp/flash-messages",
   "type": "library",
   "description": "Session-based Flash Messages class for PHP",
+  "abandoned": true,
   "keywords": ["php","flash","messages"],
   "license": "MIT",
   "authors": [
